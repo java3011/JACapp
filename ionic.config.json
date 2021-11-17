@@ -1,0 +1,7 @@
+{
+  "name": "JACpro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
